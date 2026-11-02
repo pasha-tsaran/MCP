@@ -1,0 +1,17 @@
+{
+  "sources": [
+    {
+      "name": "KNS", "type": "kns",
+      "catalogue": "https://www.kns.ru/price.html",
+      "robots": "https://www.kns.ru/robots.txt",
+      "access_basis": "Публичный каталог и официальный скачиваемый прайс; чтение разрешённых robots.txt карточек без регистрации и без обхода ограничений. Только цена, модель и необходимые параметры с указанием ссылки."
+    },
+    {
+      "name": "НИКС", "type": "nix",
+      "catalogue": "https://www.nix.ru/price/index.html",
+      "terms": "https://www.nix.ru/copyrights_trademarks.html",
+      "robots": "https://www.nix.ru/robots.txt",
+      "access_basis": "Право использования фрагментов каталога предоставлено всем при наличии ссылки после каждого фрагмента; robots.txt проверяется при чтении."
+    }
+  ]
+}
